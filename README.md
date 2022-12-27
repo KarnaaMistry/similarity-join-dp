@@ -1,2 +1,3 @@
 # similarity-join-dp
-Rutgers CS Similarity Join Dynamic Programming
+
+SimilarityJoin() data management implementation for Rutgers University CS 541 Spring 2022
